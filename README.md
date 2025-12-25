@@ -62,5 +62,5 @@ This project is for educational purposes only and does not represent a productio
 
 ## Author
 
-Fabio Di Giacomo 
+Fabio Di Giacomo, 
 Cybersecurity Student / SOC Enthusiast

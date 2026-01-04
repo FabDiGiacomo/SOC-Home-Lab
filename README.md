@@ -49,7 +49,7 @@ Screenshots included in this repository show:
 
 2. Wazuh Manager running status
    
-<img width="1918" height="1021" alt="Screenshot 2" src="https://github.com/user-attachments/assets/05e1c94a-3a04-4946-a8d2-fa79e75359fa" />
+<img width="1113" height="336" alt="Screenshot 5" src="https://github.com/user-attachments/assets/d9abbd48-3dd8-46b8-bd12-60be88027baf" />
 
 3. Generated security alerts
 

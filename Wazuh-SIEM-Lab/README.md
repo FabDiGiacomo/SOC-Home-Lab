@@ -118,6 +118,9 @@ Screenshots included in this repository show:
 VirtualBox VM configuration
 Wazuh Manager running status
 Generated SSH authentication alerts
+
+---
+
 ## What I Learned
 
 1. Basic SIEM architecture and concepts

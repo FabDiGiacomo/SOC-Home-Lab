@@ -8,6 +8,20 @@ and how security alerts are generated and analyzed.
 
 ---
 
+## Lab Environment
+
+- Host OS: Windows 11
+- Hypervisor: VirtualBox
+- Guest OS: Ubuntu 22.04 LTS
+- Wazuh version: X.Y.Z
+- VM Resources:
+  - CPU: 2 vCPU
+  - RAM: 2 GB
+  - Disk: 30 GB
+- Network mode: Bridged
+
+---
+
 ## Lab Overview
 
 - **SIEM Platform:** Wazuh

@@ -31,7 +31,7 @@ This screenshot shows the Ubuntu Server virtual machine configured in VirtualBox
 and used as the Wazuh Manager host.
 
 ### Wazuh Manager service status
-![Wazuh Manager running](screenshots/02_wazuh_manager_service_running.png)
+![Wazuh Manager running](screenshots/02_wazuh_manager_service_status.png)
 
 This screenshot confirms that the Wazuh Manager service is active and running
 before performing any detection or attack simulation.

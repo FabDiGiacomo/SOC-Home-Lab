@@ -146,4 +146,4 @@ This project is for educational purposes only and does not represent a productio
 
 ## Author
 
-Fabio Di Giacomo - 2025
+Fabio Di Giacomo, 2025

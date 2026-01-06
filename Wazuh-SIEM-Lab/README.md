@@ -71,7 +71,9 @@ before performing any detection or attack simulation.
 
 Wazuh Manager service status was verified using:
 
+```bash
 systemctl status wazuh-manager
+```
 
 The service is active and running correctly.
 
